@@ -1,0 +1,10 @@
+body{
+
+background-color: gray;
+
+}
+
+header{
+display: flex;
+    background-color: rgb(210,146,205);
+}
