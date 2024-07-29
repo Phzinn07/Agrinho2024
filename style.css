@@ -58,3 +58,8 @@ align-items: center;
     width: 250px;
     height: flex;
 }
+.elementos__texto{
+    padding: 40px;
+    width: 400px;
+}
+
